@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+msgpack
+selenium
+imgbbpy
+woocommerce
+https://github.com/wkaisertexas/tiktok-uploader/archive/refs/heads/main.zip
+plyer
+pytz

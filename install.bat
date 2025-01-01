@@ -1,0 +1,1 @@
+pip install -U -r App/requirements.txt
